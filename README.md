@@ -1,4 +1,6 @@
-# weather
+
+# Weather App in VueJs
+![Alt text](https://raw.githubusercontent.com/kurodaSensei/weather-app/master/screenshot.png "Screenshot")
 
 ## Project setup
 ```
